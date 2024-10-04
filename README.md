@@ -1,5 +1,11 @@
 # CryptoForge
 
+![Static Badge](https://img.shields.io/badge/Contributeur-1-brightgreen?style=flat&logo=clubhouse&logoColor=white&logoSize=auto) ![License](https://img.shields.io/github/license/Nyx-Off/AceVenturaTheGame) 
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=white&logoSize=auto&color=purple)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=white&logoSize=auto&color=orange)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=plastic&logo=css3&logoColor=white&logoSize=auto&color=blue)
+![Static Badge](https://img.shields.io/badge/PHP-black?style=plastic&logo=php&logoColor=white&logoSize=auto&color=green)
+
 ## Description
 CryptoForge est un outil de chiffrement et de déchiffrement de fichiers basé sur une méthode de chiffrement maison qui offre une sécurité robuste grâce à l'utilisation de transformations arithmétiques et d'un sel dynamique. L'application fournit une interface web simple et intuitive permettant de chiffrer et déchiffrer des fichiers directement depuis votre navigateur.
 
