@@ -5,6 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=white&logoSize=auto&color=orange)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=plastic&logo=css3&logoColor=white&logoSize=auto&color=blue)
 ![Static Badge](https://img.shields.io/badge/PHP-black?style=plastic&logo=php&logoColor=white&logoSize=auto&color=green)
+![Static Badge](https://img.shields.io/badge/Cryptographie-grey?style=plastic&logo=letsencrypt&logoSize=auto&color=darkred)
+
 
 ## Description
 CryptoForge est un outil de chiffrement et de déchiffrement de fichiers basé sur une méthode de chiffrement maison qui offre une sécurité robuste grâce à l'utilisation de transformations arithmétiques et d'un sel dynamique. L'application fournit une interface web simple et intuitive permettant de chiffrer et déchiffrer des fichiers directement depuis votre navigateur.
